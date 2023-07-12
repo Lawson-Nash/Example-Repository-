@@ -1,0 +1,1 @@
+This repository has been initialized to for instructive documentation on how to use Git and GitHub. None of the files in this repo serve any practical use. 
